@@ -1,0 +1,17 @@
+h1{color: yellow;
+font-size:50px ;}
+#marker{color: red;}
+#marker{font-style: italic;}
+h3{color: magenta;}
+p{color: orangered;}
+#news-color{color: red;}
+section{display: flex;}
+
+
+.link-button{text-decoration: none;
+background-color: springgreen;
+padding: 10px 40px;
+border-radius: 5px;
+
+} 
+.top-banner{background-image: url(images/1\ \(1\).jpg);}
